@@ -8,8 +8,10 @@ Open Earth is an environmental geojournalism network using WordPress Multisite w
 
 ### Core features running versions
 
- -WordPress **v4.3.1**
- - JEO **v1.0.5**
+| Software | Version |
+| --- | --- |
+| WordPress | **v4.3.1** |
+| JEO | **v1.0.5** |
 
 ## Available features
 
