@@ -96,7 +96,7 @@ The database should be in WXR (WordPress eXtended RSS) format. This is the nativ
 
 ### Plugins policy
 
-We don't accept new plugins instalation, Open Earth provides a good set of plugins that you can use on your project. If a specific plugin is crucial for your project and is missing on the list, let us know.
+We don't accept new plugins installation, Open Earth provides a good set of plugins that you can use on your project. If a specific plugin is crucial for your project and is missing on the list, let us know.
 
 ## Migration FAQ
 
