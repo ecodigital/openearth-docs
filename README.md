@@ -62,6 +62,8 @@ If you'd like to later integrate your project to the network, please be aware of
 
 Learn how you should prepare your project's code and database to integrate the network.
 
+The project owner is responsible for adapting the project's theme and database to Open Earth infrastructure standards:
+
 ### Steps overall
 
  - Check the software versions on the list above, your project should work with this environment.
@@ -91,3 +93,17 @@ You can submit a zip file with the theme's code or the theme's git repository ur
 ### Submitting the project's database
 
 The database should be in WXR (WordPress eXtended RSS) format. This is the native format for the WordPress export file, XML based.
+
+### Plugins policy
+
+We don't accept new plugins instalation, Open Earth provides a good set of plugins that you can use on your project. If a specific plugin is crucial for your project and is missing on the list, let us know.
+
+## Migration FAQ
+
+### Why don't you accept the whole WordPress folder for import?
+
+Since we are using WordPress Multisite, we already run a WordPress installation, which your project will be part of. All projects share the same core, allowing the network maintenance to support all projects.
+
+### Why not accept SQL file for database import?
+
+WordPress MultiSite has a different approach to its database infrastructure. Thats why its important to use the native import tool. SQL requires manual edits to the import file, which is not ideal and can result in errors.
